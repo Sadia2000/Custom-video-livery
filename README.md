@@ -26,4 +26,7 @@ Rather simple.
 
 <a href=https://youtu.be/3hEVn2_JgfE?t_45><b>FOR INSTALLATION CLICK ME. (Start from 45 seconds)</b></a>
 
-<b>Thanks for coming by! :D</b>
+<b>Thanks for coming by!</b>
+
+BEST REGARDS,
+-AVION
