@@ -28,5 +28,5 @@ Rather simple.
 
 <b>Thanks for coming by!</b>
 
-BEST REGARDS,
+BEST REGARDS,<br>
 -AVION
