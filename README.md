@@ -24,6 +24,6 @@ Rather simple.
 
 <img src=https://github.com/Sadia2000/Custom-video-livery/blob/main/tutorial/Screenshot%202021-05-16%20094123.png alt=tutorial_3 width=800px><br><br>
 
-<a href=https://youtu.be/3hEVn2_JgfE><b>FOR INSTALLATION CLICK ME.</b></a>
+<a href=https://youtu.be/3hEVn2_JgfE?t=45><b>FOR INSTALLATION CLICK ME. (Starts from the point of installation)</b></a>
 
 <b>Thanks for coming by! :D</b>
