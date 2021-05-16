@@ -24,12 +24,6 @@ Rather simple.
 
 <img src=https://github.com/Sadia2000/Custom-video-livery/blob/main/tutorial/Screenshot%202021-05-16%20094123.png alt=tutorial_3 width=600px>
 
-<ul>
-  <li>Download like any other livery</li>
-</ul>
-
-<img src=https://github.com/Sadia2000/Custom-video-livery/blob/main/tutorial/Screenshot%202021-05-16%20094123.png alt=tutorial_3 width=600px>
-
 <a href=https://youtu.be/3hEVn2_JgfE><b>FOR INSTALLATION CLICK ME.</b></a>
 
 <b>Thanks for coming by! :D</b>
