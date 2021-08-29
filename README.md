@@ -1,3 +1,4 @@
+[![License](https://img.shields.io/github/license/c172p-team/c172p.svg?color=blue)](https://github.com/c172p-team/c172p/blob/master/LICENSE)
 # Custom-video-livery
 All the custom-made liveries made specifically by <a href=https://www.youtube.com/channel/UCD2npzRc_17aVfrnkOM4wkw>Avion Ade Productions</a> for their videos. Released under GNU-GPL V2.0
 
