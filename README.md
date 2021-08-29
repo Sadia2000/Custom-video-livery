@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/github/license/Sadia2000/Custom-video-liverycolor=blue)](https://github.com/Sadia2000/Custom-video-livery/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/Sadia2000/Custom-video-livery color=blue)](https://github.com/Sadia2000/Custom-video-livery/blob/main/LICENSE)
 # Custom-video-livery
 All the custom-made liveries made specifically by <a href=https://www.youtube.com/channel/UCD2npzRc_17aVfrnkOM4wkw>Avion Ade Productions</a> for their videos. Released under GNU-GPL V2.0
 
