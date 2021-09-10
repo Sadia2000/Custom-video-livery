@@ -4,4 +4,4 @@
 </ul><br>
 
 # Gallery
-<a href=https://raw.githubusercontent.com/Sadia2000/Custom-video-livery/main/A320-family/A320-271N/DLH-A320N.zip><img src=https://github.com/Sadia2000/Custom-video-livery/blob/main/A320-family/Screenshots/fgfs-20210910124351.pngg alt=D-AIJD width=500px></a>
+<a href=https://raw.githubusercontent.com/Sadia2000/Custom-video-livery/main/A320-family/A320-271N/DLH-A320N.zip><img src=https://raw.githubusercontent.com/Sadia2000/Custom-video-livery/main/A320-family/Screenshots/fgfs-20210910124351.png alt=D-AIJD width=500px></a>
