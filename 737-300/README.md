@@ -2,7 +2,7 @@
 <ul>
   <li><a href=https://raw.githubusercontent.com/Sadia2000/Custom-video-livery/main/737-300/PK-CLC.zip>Sriwijaya Airlines (reg. PK-CLC)</a></li>
   <li><a href=https://raw.githubusercontent.com/Sadia2000/Custom-video-livery/main/737-300/GIA-Original.zip>Garuda Indonesia (reg. PK-GWA)</a></li>
-  <li><a href=https://raw.githubusercontent.com/Sadia2000/Custom-video-livery/main/737-300/Air%20Honolulu-N201AH.zip>Air Honolulu (reg. N201AH)</a></li>
+  <li><a href=https://raw.githubusercontent.com/Sadia2000/Custom-video-livery/main/737-300/Air%20Honolulu-N201AH.zip>Air Honolulu-Kona (reg. N201AH)</a></li>
 </ul><br>
 
 # Gallery
